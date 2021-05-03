@@ -1,0 +1,12 @@
+name: Moodle_Log_Vis
+title: Moodle_Log_Vis
+username:
+account: carletondatasquad
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3953585
+bundleId: 4551976
+url: https://carletondatasquad.shinyapps.io/Moodle_Log_Vis/
+when: 1620066169.26289
+asMultiple: FALSE
+asStatic: FALSE
